@@ -15,9 +15,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /****
- * Name: Sean Davies
- * Email: seandavies@unm.edu
- * Class: CS251L-003
  * Description: This is the Game Panel which allows
  * the game to be played.
  ****/
