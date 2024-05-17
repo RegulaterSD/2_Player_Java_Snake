@@ -1,7 +1,4 @@
 /****
- * Name: Sean Davies
- * Email: seandavies@unm.edu
- * Class: CS251L-003
  * Description: This is the Game Manager for
  * the Snake Lab.
  ****/
