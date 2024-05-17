@@ -2,9 +2,6 @@ import java.awt.*;
 import java.util.*;
 
 /****
- * Name: Sean Davies
- * Email: seandavies@unm.edu
- * Class: CS251L-003
  * Description: This is the Snake Object
  * File.
  ****/
