@@ -5,9 +5,6 @@ import java.util.LinkedList;
 import java.util.Random;
 
 /****
- * Name: Sean Davies
- * Email: seandavies@unm.edu
- * Class: CS251L-003
  * Description: This is the Wall Object File.
  ****/
 
