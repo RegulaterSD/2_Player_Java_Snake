@@ -1,9 +1,6 @@
 import java.awt.*;
 
 /****
- * Name: Sean Davies
- * Email: seandavies@unm.edu
- * Class: CS251L-003
  * Description: This is the Food Object File.
  ****/
 
